@@ -12,7 +12,7 @@ namespace SampleAPI.Controllers
         /// </summary>
         public HII()
         {
-
+            //initialize
         }
     }
 }
