@@ -7,5 +7,12 @@ namespace SampleAPI.Controllers
     [ApiController]
     public class HII : ControllerBase
     {
+        /// <summary>
+        /// Constructor Added.
+        /// </summary>
+        public HII()
+        {
+            //initialize
+        }
     }
 }

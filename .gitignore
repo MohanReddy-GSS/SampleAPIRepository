@@ -15,3 +15,6 @@ obj/
 # Ignore others
 *.log
 *.DS_Store
+/Run-Hotfix.ps1
+/.gitignore
+/.gitignore
